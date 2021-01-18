@@ -1,0 +1,4 @@
+Name : nik	
+Age : 20	
+Passport No. : 98	
+FlightName : AirAsia6

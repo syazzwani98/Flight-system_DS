@@ -1,0 +1,4 @@
+Name : NIK	
+Age : 20	
+Passport No. : 98	
+FlightName : MalindoAir3
